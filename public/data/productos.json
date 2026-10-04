@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mouse Gamer Logitech G203",
+        "precio": 24990,
+        "categoria": "Periféricos",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHie-RK7RXF5kFtZaUK1og9dExC2nt18uupAiAsqW-Qg&s=10",
+        "descripcion": "Mouse óptico con tecnología Lightsync RGB y sensor de 8000 DPI."
+    },
+    {
+        "id": 2,
+        "nombre": "Teclado Mecánico HyperX Alloy",
+        "precio": 65990,
+        "categoria": "Periféricos",
+        "imagen": "https://media.falabella.com/falabellaCL/80734752_1/w=1500,h=1500,fit=cover",
+        "descripcion": "Teclado mecánico compacto ideal para gaming competitivo con switches Red."
+    },
+    {
+        "id": 3,
+        "nombre": "Monitor LG UltraGear 24\"",
+        "precio": 149990,
+        "categoria": "Computación",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Ky-zUh15NL3Pn1CYZk087qv2nKmaTRTNlBLm2tBqyQ&s=10",
+        "descripcion": "Monitor gaming de 144Hz y 1ms de respuesta para una experiencia fluida."
+    },
+    {
+        "id": 4,
+        "nombre": "Audífonos Razer Kraken",
+        "precio": 45990,
+        "categoria": "Periféricos",
+        "imagen": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR6ncBppdiSXiBBtIhLuoAGOJESYZbUSzs8ehTKpSz2dboDRkP-63BQdEmH3-24GXzEc5_uJUGMNOW9ta6dbhSVtdzNpMpNhA",
+        "descripcion": "Sonido envolvente 7.1 con almohadillas de gel refrigerante."
+    },
+    {
+        "id": 5,
+        "nombre": "Notebook ASUS TUF Gaming",
+        "precio": 899990,
+        "categoria": "Computación",
+        "imagen": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQIUXo_urKGsGsLGN6I5u9Hns-BcjoaTkDv5FJ7gmUTQo9GJf8XrJIeMcxBwMD4ttIQ-gGZGlKkJDzBpPRxF3K2WYxqv7Z-mV7K7ieB8n23VR_Ky7l8joGBXg",
+        "descripcion": "Potencia pura con procesador Ryzen 7, 16GB de RAM y tarjeta RTX 3060."
+    },
+    {
+        "id": 6,
+        "nombre": "Silla Gamer Cougar Armor",
+        "precio": 189990,
+        "categoria": "Periféricos",
+        "imagen": "https://cdnx.jumpseller.com/a2-brands/image/75596546/resize/610/610?1775663299",
+        "descripcion": "Comodidad máxima para largas sesiones de juego. Estructura de acero."
+    }
+]

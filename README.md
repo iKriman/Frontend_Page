@@ -10,7 +10,7 @@ El sitio permite visualizar un catálogo de videojuegos, filtrar el contenido po
 
 - HTML5 con estructura semántica.
 - CSS3 con Flexbox, CSS Grid y media queries.
-- Bootstrap 5 para navegación, grilla responsiva, tarjetas, formularios, botones y utilidades.
+- Bootstrap 5.3.6 incluido localmente para navegación, grilla responsiva, tarjetas, formularios, botones y utilidades.
 - JavaScript ES6+ para la lógica y manipulación dinámica de datos.
 - React con componentes funcionales, `useState`, `useEffect`, `useMemo` y props.
 - Vite como entorno de desarrollo y compilación.

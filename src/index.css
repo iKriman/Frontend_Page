@@ -12,15 +12,12 @@ body {
 }
 
 button,
-input {
+input,
+textarea {
   font: inherit;
 }
 
 button,
 a {
   -webkit-tap-highlight-color: transparent;
-}
-
-a {
-  color: inherit;
 }

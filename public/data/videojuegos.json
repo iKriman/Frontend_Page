@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "nombre": "Nebula Frontier",
+    "precio": 39990,
+    "categoria": "Aventura",
+    "imagen": "images/nebula-frontier.svg",
+    "descripcion": "Explora planetas desconocidos, resuelve antiguos misterios y construye tu propia ruta entre las estrellas."
+  },
+  {
+    "id": 2,
+    "nombre": "Iron District",
+    "precio": 44990,
+    "categoria": "Acción",
+    "imagen": "images/iron-district.svg",
+    "descripcion": "Combate urbano de ritmo rápido con misiones tácticas, escenarios verticales y desafíos cada vez más intensos."
+  },
+  {
+    "id": 3,
+    "nombre": "Kingdoms of Ember",
+    "precio": 52990,
+    "categoria": "RPG",
+    "imagen": "images/kingdoms-ember.svg",
+    "descripcion": "Forma un grupo de héroes, mejora habilidades y decide el destino de un reino amenazado por una antigua fuerza."
+  },
+  {
+    "id": 4,
+    "nombre": "Turbo League 27",
+    "precio": 34990,
+    "categoria": "Deportes",
+    "imagen": "images/turbo-league.svg",
+    "descripcion": "Compite en campeonatos de alta velocidad con autos personalizables, eventos online y pistas alrededor del mundo."
+  },
+  {
+    "id": 5,
+    "nombre": "Echoes Below",
+    "precio": 28990,
+    "categoria": "Terror",
+    "imagen": "images/echoes-below.svg",
+    "descripcion": "Investiga una estación subterránea abandonada donde cada sonido puede revelar una pista o atraer algo peligroso."
+  },
+  {
+    "id": 6,
+    "nombre": "Pixel Farm Stories",
+    "precio": 19990,
+    "categoria": "Simulación",
+    "imagen": "images/pixel-farm.svg",
+    "descripcion": "Recupera una pequeña granja, conoce a sus habitantes y construye una vida tranquila a tu propio ritmo."
+  },
+  {
+    "id": 7,
+    "nombre": "Chronicle Zero",
+    "precio": 46990,
+    "categoria": "RPG",
+    "imagen": "images/chronicle-zero.svg",
+    "descripcion": "Un RPG de ciencia ficción con combates por turnos, decisiones narrativas y múltiples finales posibles."
+  },
+  {
+    "id": 8,
+    "nombre": "Shadow Circuit",
+    "precio": 31990,
+    "categoria": "Acción",
+    "imagen": "images/shadow-circuit.svg",
+    "descripcion": "Infiltración, parkour y combate electrónico se mezclan en una ciudad futurista controlada por corporaciones."
+  }
+]

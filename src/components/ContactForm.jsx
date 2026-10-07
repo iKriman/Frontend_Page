@@ -70,6 +70,7 @@ function ContactForm() {
           <input
             id="contact-name"
             name="nombre"
+            autoComplete="name"
             className={`form-control ${errores.nombre ? 'is-invalid' : ''}`}
             value={formulario.nombre}
             onChange={actualizarCampo}
@@ -84,6 +85,7 @@ function ContactForm() {
             id="contact-email"
             name="email"
             type="email"
+            autoComplete="email"
             className={`form-control ${errores.email ? 'is-invalid' : ''}`}
             value={formulario.email}
             onChange={actualizarCampo}

@@ -21,6 +21,11 @@ function VideojuegoCard({ videojuego, onEliminar }) {
           src={obtenerRutaImagen(videojuego.imagen)}
           className="card-img-top game-cover"
           alt={`Portada de ${videojuego.nombre}`}
+          loading="lazy"
+          onError={(event) => {
+            event.currentTarget.onerror = null;
+            event.currentTarget.src = `${import.meta.env.BASE_URL}images/cover-default.svg`;
+          }}
         />
         <span className="badge text-bg-dark game-category">{videojuego.categoria}</span>
       </div>

@@ -86,6 +86,7 @@ function CatalogoForm({ onAgregar }) {
               value={formulario.nombre}
               onChange={actualizarCampo}
               placeholder="Ej: Neon Horizon"
+              required
             />
             <div className="invalid-feedback">{errores.nombre}</div>
           </div>
@@ -99,6 +100,7 @@ function CatalogoForm({ onAgregar }) {
               value={formulario.categoria}
               onChange={actualizarCampo}
               placeholder="Ej: Aventura"
+              required
             />
             <div className="invalid-feedback">{errores.categoria}</div>
           </div>
@@ -114,6 +116,7 @@ function CatalogoForm({ onAgregar }) {
               value={formulario.precio}
               onChange={actualizarCampo}
               placeholder="39990"
+              required
             />
             <div className="invalid-feedback">{errores.precio}</div>
           </div>
@@ -141,6 +144,7 @@ function CatalogoForm({ onAgregar }) {
               value={formulario.descripcion}
               onChange={actualizarCampo}
               placeholder="Describe brevemente el videojuego."
+              required
             />
             <div className="invalid-feedback">{errores.descripcion}</div>
           </div>

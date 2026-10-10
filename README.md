@@ -1,6 +1,6 @@
 # GameStore - Evaluación Final Transversal
 
-Proyecto final de **Desarrollo Frontend I (PFY2201)**. La aplicación simula una tienda online de videojuegos y fue desarrollada con HTML5, CSS3, JavaScript, Bootstrap 5 y React.
+Proyecto final de **Desarrollo Frontend I**. La aplicación simula una tienda online de videojuegos y fue desarrollada con HTML5, CSS3, JavaScript, Bootstrap 5 y React.
 
 ## Objetivo
 
